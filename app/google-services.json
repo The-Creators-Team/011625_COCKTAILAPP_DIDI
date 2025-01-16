@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884090591747",
+    "project_id": "cocktail-full-application",
+    "storage_bucket": "cocktail-full-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884090591747:android:c41c604d348a5289e34c36",
+        "android_client_info": {
+          "package_name": "com.example.cocktailfullapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfqtu7NZ8Ilbl2mu3siynVSqFxkrS-uTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
